@@ -12,6 +12,7 @@ setup(
     keywords=['kaggle', 'downloader', 'datasets'],
     install_requires=[
         'requests',
+        'MechanicalSoup'
     ],
     classifiers=[],
 )
